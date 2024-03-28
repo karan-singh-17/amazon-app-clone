@@ -1,5 +1,7 @@
 # amazon_clone
 
+Demo link -> [Video Demo](https://x.com/karan_sing15392/status/1773297575258357964?s=20)
+
 (Flutter , Node.JS , Express , MongoDB , Cloudinary)
 
 Developed a full-stack e-commerce application using Flutter for the front end and Node.js, Express, and MongoDB for the back end. Created robust APIs for seamless communication between the front-end and back-end components. Integrated Cloudinary for image storage and management.
